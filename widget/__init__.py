@@ -9,3 +9,4 @@ that belong to the package.
 # from .[file_path] import Class
 from .window.Window import Window
 from .left_frame.LeftFrame import LeftFrame
+from .button.Button import Button
